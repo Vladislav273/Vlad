@@ -1,3 +1,3 @@
 # Vlad
 make smol progect
-photo game
+photo 
